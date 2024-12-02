@@ -1,7 +1,7 @@
 {
   "name": "dual-store-ecommerce",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "concurrently \"node src/data/server.mjs\" \"vite\"",
