@@ -57,9 +57,8 @@ export function Login() {
           Iniciar Sesión
         </button>
         <p className="mt-4 text-center">
-          ¿Olvidaste tu contraseña? Usa el usuario root: <br />
-          Usuario:   <br />
-          Contraseña:  
+          ¿Olvidaste tu contraseña? Usa el usuario root.<br />
+        
         </p>
       </div>
     </div>
